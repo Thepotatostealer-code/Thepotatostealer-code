@@ -280,7 +280,7 @@ Repository: `ctf-writeups` (Coming Soon)
 
 | Platform | Status | Link |
 |----------|--------|------|
-| **LinkedIn** | 🔄 Active | [linkedin.com/in/sujaul-islam-ahil](https://www.linkedin.com/in/sujaul-islam-ahil-b91b94344/) |
+| **LinkedIn** | 🔄 Active | [linkedin.com/in/sujaul-islam-ahil](https://www.linkedin.com/in/sujaul-islam-) |
 | **TryHackMe** | 🔄 Active | [tryhackme.com/p/sujaul.islam.ahil](https://tryhackme.com/p/sujaul.islam.ahil?tab=completed-rooms) |
 | **GitHub** | 📋 This Profile | [github.com/Thepotatostealer-code](https://github.com/Thepotatostealer-code) |
 | **Email** | 📧 Contact | sujaul.islam.ahil@gmail.com |
@@ -407,7 +407,7 @@ Repository: `ctf-writeups` (Coming Soon)
 
 **Feel free to reach out:**
 - 📧 Email: sujaul.islam.ahil@gmail.com
-- 💼 LinkedIn: [Connect with me](https://www.linkedin.com/in/sujaul-islam-ahil-b91b94344/)
+- 💼 LinkedIn: [Connect with me](https://www.linkedin.com/in/sujaul-islam-)
 - 🐙 GitHub: [Follow my journey](https://github.com/Thepotatostealer-code)
 
 ---
