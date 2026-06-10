@@ -1,420 +1,393 @@
-# 🛡️ Sujaul Islam — Security Operations & Threat Detection
+<div align="center">
 
-> **SOC Analyst | Threat Hunter | Security Operations**  
-> Building a home lab SOC environment from scratch. Documenting everything publicly.
+```
+╔═══════════════════════════════════════════════════════════════╗
+║                                                               ║
+║              🛡️  SUJAUL ISLAM - SOC ANALYST  🛡️               ║
+║                                                               ║
+║         Threat Hunter | Security Operations | Blue Team       ║
+║                                                               ║
+╚═══════════════════════════════════════════════════════════════╝
+```
 
----
+</div>
 
-## 🎯 About Me
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%">
 
-I'm a cybersecurity enthusiast focused on **Security Operations, Threat Detection, and Incident Response**. I'm building hands-on expertise through:
+<div align="center">
 
-- **Home Lab SOC Environment** - pfSense, Security Onion, Windows Server, Kali Linux
-- **Threat Detection & Analysis** - Writing Suricata rules, analyzing network traffic, triaging alerts
-- **Incident Response** - Documenting real-world scenarios, forensic analysis, MITRE ATT&CK mapping
-- **Continuous Learning** - TryHackMe SOC Level 1 Path, Blue Team Labs, CyberDefenders challenges
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=7B2CBF&center=true&vCenter=true&width=500&lines=Hi+There,+I'm+Ahil;SOC+Analyst+Training+In+Progress" alt="Animated Intro" />
 
-**Location:** Dhaka, Bangladesh 🇧🇩  
-**Availability:** Remote internships (paid or unpaid)  
-**Current Focus:** Completing SOC Level 1 training, building home lab, documenting everything
+</div>
 
----
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%">
 
-## 📚 Current Learning Path
+<div align="center">
 
-### 🔄 In Progress
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sujaul-islam-)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Thepotatostealer-code)
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-212C3C?style=for-the-badge&logo=tryhackme&logoColor=00D9FF)](https://tryhackme.com/p/sujaul.islam.ahil)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sujaul.islam.ahil@gmail.com)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/Aee3p7nH)
+
+</div>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%">
+
+## <div align="center">🎯 ABOUT ME</div>
+
+I'm building hands-on expertise in **Security Operations, Threat Detection, and Incident Response**. I have real-world experience with SIEM deployment, threat investigation, EDR, IPS, and security hardening.
+
+**📍 Location:** Dhaka, Bangladesh | **🌍 Remote:** Available (Paid/Unpaid)
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%">
+
+## <div align="center">📊 GITHUB STATS & ACTIVITY</div>
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Thepotatostealer-code&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=7B2CBF&text_color=c9d1d9&icon_color=7B2CBF)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Thepotatostealer-code&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=7B2CBF&text_color=c9d1d9)
+
+</div>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%">
+
+## <div align="center">🔥 CONTRIBUTION ACTIVITY</div>
+
+<div align="center">
+
+![GitHub Contribution Graph](https://github-readme-streak-stats.herokuapp.com/?user=Thepotatostealer-code&theme=dark&background=0d1117&stroke=7B2CBF&ring=7B2CBF&fire=FF6B35&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=7B2CBF&sideLabels=7B2CBF&dates=c9d1d9)
+
+</div>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%">
+
+## <div align="center">📈 ENGAGEMENT METRICS</div>
+
+<div align="center">
+
+![Visitors](https://visitor-badge.glitch.me/badge?page_id=Thepotatostealer-code.Thepotatostealer-code&left_color=7B2CBF&right_color=FF6B35)
+
+[![GitHub followers](https://img.shields.io/github/followers/Thepotatostealer-code?style=social&label=Followers&color=7B2CBF)](https://github.com/Thepotatostealer-code)
+[![GitHub stars](https://img.shields.io/github/stars/Thepotatostealer-code?style=social&label=Stars&color=7B2CBF)](https://github.com/Thepotatostealer-code)
+
+</div>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%">
+
+## <div align="center">💼 PROFESSIONAL EXPERIENCE</div>
+
+<table>
+<tr>
+<td>
+
+**🔒 SIEM & Threat Detection**
+- Wazuh deployment & management
+- Alert triage & correlation
+- Threat investigation & analysis
+- Log analysis & forensics
+
+</td>
+<td>
+
+**🛡️ Security Hardening**
+- Fail2Ban configuration
+- SSH security hardening
+- Brute-force protection
+- Infrastructure security
+
+</td>
+</tr>
+<tr>
+<td>
+
+**🔍 Incident Response**
+- Cryptominer detection
+- Forensic investigation
+- Incident documentation
+- Root cause analysis
+
+</td>
+<td>
+
+**💻 Infrastructure Support**
+- 1 year at game hosting company
+- Server management
+- Ticket management
+- Connectivity troubleshooting
+
+</td>
+</tr>
+</table>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%">
+
+## <div align="center">🛠️ TECHNICAL SKILLS</div>
+
+<div align="center">
+
+### 🔴 SIEM & Monitoring
+![Wazuh](https://img.shields.io/badge/Wazuh-4B9E5C?style=for-the-badge&logo=wazuh&logoColor=white)
+![Security Onion](https://img.shields.io/badge/Security%20Onion-2E3440?style=for-the-badge&logoColor=white)
+![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white)
+![Kibana](https://img.shields.io/badge/Kibana-005571?style=for-the-badge&logo=kibana&logoColor=white)
+
+### 🔵 Network Security
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+![Zeek](https://img.shields.io/badge/Zeek-FF6B6B?style=for-the-badge&logoColor=white)
+![pfSense](https://img.shields.io/badge/pfSense-212C3C?style=for-the-badge&logoColor=white)
+![tcpdump](https://img.shields.io/badge/tcpdump-000000?style=for-the-badge&logoColor=white)
+
+### 🟢 Operating Systems
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![Kali Linux](https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows%20Server-0078D4?style=for-the-badge&logo=windows&logoColor=white)
+
+### 🟣 Frameworks & Methodologies
+![MITRE ATT&CK](https://img.shields.io/badge/MITRE%20ATT%26CK-FF6B35?style=for-the-badge&logoColor=white)
+![NIST](https://img.shields.io/badge/NIST-004B87?style=for-the-badge&logoColor=white)
+![Cyber Kill Chain](https://img.shields.io/badge/Cyber%20Kill%20Chain-8B0000?style=for-the-badge&logoColor=white)
+
+### 🟡 Programming & Scripting
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+### 🟠 Development & Tools
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+### 🔷 Threat Intelligence
+![VirusTotal](https://img.shields.io/badge/VirusTotal-394EFF?style=for-the-badge&logoColor=white)
+![AbuseIPDB](https://img.shields.io/badge/AbuseIPDB-FF6B6B?style=for-the-badge&logoColor=white)
+![MISP](https://img.shields.io/badge/MISP-2E3440?style=for-the-badge&logoColor=white)
+
+</div>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%">
+
+## <div align="center">📚 LEARNING & CERTIFICATIONS</div>
 
 | Platform | Status | Progress |
-|----------|--------|----------|
-| **TryHackMe SOC Level 1** | 🔄 In Progress | ~60% complete |
-| **Home Lab Setup** | 🔄 In Progress | Foundation phase |
-| **Blue Team Labs Online** | 🔄 In Progress | Starting investigations |
-| **LetsDefend.io** | 🔄 In Progress | Alert triage training |
-| **CyberDefenders** | 🔄 In Progress | Blue team challenges |
-
-### ✅ Completed
-
-- ✅ Linux Fundamentals (TryHackMe - 3 rooms)
-- ✅ Cisco NetAcad Networking Basics
-- ✅ Harvard CS50 Python Basics
-- ✅ Basic Security Tools & Concepts
-- ✅ Intermediate Linux Terminal Skills
-
----
-
-## 🏗️ Home Lab SOC Environment
-
-### 🔄 Coming Soon
-
-A fully functional Security Operations Center environment built from scratch with:
-
-```
-Home Lab Architecture (Coming Soon)
-├── pfSense VM
-│   └── Network firewall & router configuration
-├── Security Onion
-│   ├── Elasticsearch + Kibana (logs & visualization)
-│   ├── Suricata (IDS/IPS)
-│   ├── Zeek (network monitoring)
-│   └── Wazuh (SIEM agent)
-├── Windows Server 2022
-│   └── Endpoint for detection & monitoring
-├── Ubuntu Server
-│   └── Log collector & centralized logging
-└── Kali Linux
-    └── Attacker machine for simulations
-```
-
-**What I'll Document:**
-- Complete setup guide with screenshots
-- Network architecture diagram
-- Configuration files (commented)
-- Attack simulation procedures
-- Detection rule deployment
-
-**Repository:** `home-lab-setup` (Coming Soon)
-
----
-
-## 🔍 Detection Rules & SIEM Expertise
-
-### 🔄 In Development
-
-Repository: `detection-rules` (Coming Soon)
-
-**Planned Content:**
-- Suricata detection rules (IDS signatures)
-- Sigma rules (SIEM-agnostic detection)
-- Custom Wazuh detection rules
-- Rule documentation and MITRE ATT&CK mapping
-- Rule testing methodology
-
-**Example Rule Categories:**
-- Brute force attack detection
-- Privilege escalation indicators
-- Lateral movement detection
-- Data exfiltration patterns
-- Malware behavior signatures
-
----
-
-## 📋 Incident Reports & Case Studies
-
-### 🔄 Coming Soon
-
-Repository: `incident-reports` (Coming Soon)
-
-**Planned Reports (10+):**
-
-Professional incident response documentation based on:
-- Home lab attack simulations
-- TryHackMe/CyberDefenders scenarios
-- Real-world breach postmortems
-
-**Report Format:**
-```
-Incident Report — IR-XXXX-XXX
-├── Executive Summary
-├── Timeline of Events
-├── Technical Analysis
-├── MITRE ATT&CK Mapping
-├── Indicators of Compromise (IOCs)
-├── Containment Actions
-├── Root Cause Analysis
-├── Recommendations
-└── Lessons Learned
-```
-
-**Example Scenarios:**
-- Phishing campaign with credential harvesting
-- Lateral movement detection
-- Data exfiltration attempt
-- Malware infection & containment
-- Privilege escalation investigation
-
----
-
-## 🧠 Threat Intelligence & MITRE ATT&CK
-
-### 🔄 In Development
-
-Repository: `threat-intel-notes` (Coming Soon)
-
-**Planned Content:**
-- MITRE ATT&CK framework mapping
-- Threat actor profiles
-- Indicators of Compromise (IOCs) collections
-- Attack technique breakdowns
-- Threat intelligence analysis
-
----
-
-## 🐍 Security Scripts & Automation
-
-### ⏳ Upcoming
-
-Repository: `security-scripts` (Coming Soon)
-
-**Planned Scripts:**
-
-1. **IOC Checker** (Python)
-   - Check IPs/domains against threat intel APIs
-   - Uses AbuseIPDB, VirusTotal free tier
-   - Outputs structured triage report
-
-2. **Log Parser** (Python)
-   - Parse Windows Event Logs
-   - Flag suspicious event IDs (4625, 4648, 4688, 7045)
-   - Summarize alerts for triage
-
-3. **Phishing Header Analyzer** (Python)
-   - Extract IPs from email headers
-   - Check SPF/DKIM/DMARC records
-   - Flag suspicious indicators
-
-4. **Alert Triage Helper** (Bash)
-   - Automate alert categorization
-   - Generate quick summary reports
-   - Integration with SIEM outputs
-
----
-
-## 🎓 CTF Writeups & Challenge Solutions
-
-### 🔄 In Progress
-
-Repository: `ctf-writeups` (Coming Soon)
-
-**Planned Content:**
-- TryHackMe room walkthroughs
-- CyberDefenders challenge solutions
-- Blue Team Labs investigation reports
-- HackTheBox machine writeups
-- Lessons learned from each challenge
-
----
-
-## 📊 Technical Skills
-
-### SIEM & Monitoring
-- 🔄 Security Onion (in progress)
-- 🔄 Wazuh (in progress)
-- ✅ Splunk
-- ✅ Elastic Stack 
-
-### Network Security
-- 🔄 Wireshark (in progress)
-- 🔄 Zeek (in progress)
-- ⏳ tcpdump (coming soon)
-- ⏳ pfSense (in progress)
-
-### Operating Systems
-- ✅ Linux (Ubuntu/Debian) - Intermediate
-- 🔄 Windows Server 2022 (in progress)
-- ⏳ Kali Linux (coming soon)
-
-### Frameworks & Methodologies
-- 🔄 MITRE ATT&CK (in progress)
-- ⏳ Cyber Kill Chain (coming soon)
-- ⏳ NIST Incident Response (coming soon)
-
-### Programming & Scripting
-- ✅ Python - Basics complete
-- 🔄 Python - Advanced (in progress)
-- ⏳ Bash scripting (coming soon)
-
-### Threat Intelligence
-- ⏳ VirusTotal 
-- ⏳ AbuseIPDB 
-- ⏳ MISP (coming soon)
-- ⏳ AlienVault OTX (coming soon)
-
----
-
-## 🎯 Current Projects Status
-
-| Project | Status | ETA | Repository |
-|---------|--------|-----|-----------|
-| **Home Lab Setup** | 🔄 In Progress | Week 4 | `home-lab-setup` |
-| **Detection Rules** | 📋 Planned | Week 6 | `detection-rules` |
-| **Incident Reports** | 📋 Planned | Week 8 | `incident-reports` |
-| **Threat Intel Notes** | 📋 Planned | Week 10 | `threat-intel-notes` |
-| **Security Scripts** | 📋 Planned | Week 12 | `security-scripts` |
-| **CTF Writeups** | 🔄 In Progress | Ongoing | `ctf-writeups` |
-
----
-
-## 📈 Learning Milestones
-
-### Foundation 
-- [ ] Complete TryHackMe SOC Level 1 Path
-- [ ] Complete 20+ Blue Team Labs challenges
-- [ ] Complete 15+ CyberDefenders challenges
-- [ ] Complete 10+ LetsDefend alerts
-- [ ] Build home lab foundation
-
-### Build 
-- [ ] Complete home lab setup
-- [ ] Configure Suricata & Zeek
-- [ ] Deploy Wazuh agents
-- [ ] Write 5+ detection rules
-- [ ] Document 5+ incident reports
-
-### Expand 
-- [ ] Write 10+ incident reports
-- [ ] Create 3+ security scripts
-- [ ] Complete 30+ CTF challenges
-- [ ] Write 10+ CTF writeups
-- [ ] Optimize GitHub portfolio
-
-### Apply
-- [ ] Optimize LinkedIn profile
-- [ ] Update resume with projects
-- [ ] Apply to SOC analyst internships
-- [ ] Prepare for interviews
-- [ ] Network with security professionals
-
----
-
-## 🌐 Connect With Me
-
-| Platform | Status | Link |
-|----------|--------|------|
-| **LinkedIn** | 🔄 Active | [linkedin.com/in/sujaul-islam-ahil](https://www.linkedin.com/in/sujaul-islam-) |
-| **TryHackMe** | 🔄 Active | [tryhackme.com/p/sujaul.islam.ahil](https://tryhackme.com/p/sujaul.islam.ahil?tab=completed-rooms) |
-| **GitHub** | 📋 This Profile | [github.com/Thepotatostealer-code](https://github.com/Thepotatostealer-code) |
-| **Email** | 📧 Contact | sujaul.islam.ahil@gmail.com |
-
----
-
-## 🚀 What's Coming Next
-
-**This Month:**
-- ✅ Complete TryHackMe SOC Level 1 Path
-- ✅ Finish home lab foundation setup
-- ✅ Start first incident report
-
-**Next Month:**
-- 📋 Deploy full home lab
-- 📋 Write 5+ incident reports
-- 📋 Create first security script
-
-**In 3 Months:**
-- 📋 10+ incident reports published
-- 📋 5+ security scripts
-- 📋 30+ CTF challenges completed
-- 📋 Ready to apply for SOC internships
-
----
-
-## 💡 My Approach
-
-> **Proof Over Credentials**
->
-> I don't have a degree. I have a GitHub repository with incident reports, detection rules, and a home lab that proves I can do the job.
-
-**My Daily Routine:**
-- 30 min: TryHackMe room or CyberDefenders challenge
-- 20 min: Home lab - simulate something, detect it, document it
-- 10 min: Read security news (Bleeping Computer, SANS, Krebs)
-- 10 min: Post or engage on LinkedIn
-- 10 min: Update GitHub with progress
-
-## 📚 Resources I'm Using
-
-**Learning Platforms:**
-- [TryHackMe](https://www.tryhackme.com/) - SOC training
-- [Blue Team Labs Online](https://blueteamlabs.online/) - Incident investigation
-- [LetsDefend.io](https://letsdefend.io/) - SOC simulator
-- [CyberDefenders](https://cyberdefenders.org/) - Blue team CTF
-- [HackTheBox](https://www.hackthebox.com/) - Offensive awareness
-
-**Tools & Documentation:**
-- [Security Onion](https://securityonion.net/) - SIEM + IDS
-- [MITRE ATT&CK](https://attack.mitre.org/) - Threat framework
-- [Wireshark](https://www.wireshark.org/) - Network analysis
-- [Python Docs](https://docs.python.org/3/) - Programming
-
----
-
-## 🎓 Background
-
-**Education:**
-- Currently: 2nd year IGCE (Maths, Physics, IT)
-- Completed: IGCSE under Edexcel (8 subjects including ICT)
-- School: Academia, Dhaka, Bangladesh
-
-**Experience:**
-- 1 year: Game hosting company (ticket support, server management)
-- Hands-on: Wazuh SIEM deployment & management
-- Hands-on: Cryptominer detection & incident response
-- Hands-on: Fail2Ban security hardening & SSH protection
-- Hands-on: Linux system administration & security
+|:--------:|:------:|:--------:|
+| **TryHackMe SOC Level 1** | 🔄 Active | ~60% |
+| **Blue Team Labs** | 🔄 Active | In Progress |
+| **LetsDefend.io** | 🔄 Active | In Progress |
+| **CyberDefenders** | 🔄 Active | In Progress |
+| **HackTheBox** | 🔄 Active | In Progress |
+
+<br>
 
 **Certifications:**
-- 🔄 TryHackMe SAL1 (in progress)
-- ✅ Cisco NetAcad Networking Basics
+- 🔄 TryHackMe SAL1 (In Progress)
+- ✅ Cisco NetAcad Networking Fundamentals
 - ✅ Harvard CS50 Python Basics
 
----
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%">
 
-## 🎯 Career Goal
+## <div align="center">🎓 EDUCATION</div>
 
-**Target Role:** SOC Analyst L1 / Security Operations Intern (Remote)
+**Current:** 2nd Year IGCE (Mathematics, Physics, Information Technology)  
+**Completed:** IGCSE under Edexcel (8 subjects including ICT)  
+**School:** Academia, Dhaka, Bangladesh 🇧🇩
 
-**Why SOC?**
-- Fascinated by threat detection and incident response
-- Love the detective work of analyzing logs and network traffic
-- Want to protect organizations from real threats
-- Enjoy the continuous learning required in cybersecurity
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%">
 
-**Long-term Vision:**
-- SOC L1 Analyst → SOC L2 Analyst → SOC L3 Analyst
-- Specialize in threat hunting and incident response
-- Eventually: Security architect or CISO
+## <div align="center">🏗️ FEATURED PROJECTS</div>
 
----
+<table>
+<tr>
+<td width="50%">
 
-## ⭐ Featured Repositories (Coming Soon)
+### 🔧 home-lab-setup
+Full SOC environment with:
+- Security Onion
+- Wazuh SIEM
+- Suricata IDS/IPS
+- Zeek monitoring
+- Attack simulation
+
+</td>
+<td width="50%">
+
+### 📋 incident-reports
+Professional documentation:
+- 10+ incident reports
+- MITRE ATT&CK mapping
+- Forensic analysis
+- Containment procedures
+- Lessons learned
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 🔍 detection-rules
+Security detection:
+- Suricata rules
+- Sigma rules
+- Wazuh rules
+- Rule testing
+- Documentation
+
+</td>
+<td width="50%">
+
+### 🐍 security-scripts
+Automation tools:
+- IOC checker (Python)
+- Log parser (Python)
+- Phishing analyzer
+- Alert triage helper
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 🧠 threat-intel-notes
+Threat analysis:
+- MITRE ATT&CK mappings
+- IOC collections
+- Threat profiles
+- Attack techniques
+
+</td>
+<td width="50%">
+
+### 🎓 ctf-writeups
+Challenge solutions:
+- TryHackMe rooms
+- CyberDefenders
+- Blue Team Labs
+- HackTheBox machines
+
+</td>
+</tr>
+</table>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%">
+
+## <div align="center">📊 LEARNING ROADMAP</div>
 
 ```
-🔄 home-lab-setup          Full SOC environment setup guide
-🔄 detection-rules         Suricata & Sigma detection rules
-🔄 incident-reports        Professional incident response documentation
-🔄 threat-intel-notes      MITRE ATT&CK mappings & IOC collections
-🔄 security-scripts        Python & Bash automation tools
-🔄 ctf-writeups            Challenge solutions & walkthroughs
+Phase 1: Foundation (Weeks 1-4)
+├── Complete TryHackMe SOC Level 1
+├── Blue Team Labs challenges
+├── CyberDefenders challenges
+├── LetsDefend alerts
+└── Home lab foundation
+
+Phase 2: Build (Weeks 5-8)
+├── Complete home lab setup
+├── Configure detection tools
+├── Deploy SIEM agents
+├── Write detection rules
+└── Document incidents
+
+Phase 3: Expand (Weeks 9-12)
+├── Advanced incident reports
+├── Security scripts
+├── CTF challenges
+├── Portfolio optimization
+└── Networking
+
+Phase 4: Apply (Week 13+)
+├── LinkedIn optimization
+├── Resume updates
+├── Job applications
+├── Interview prep
+└── Professional networking
 ```
 
----
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%">
 
-## 📞 Let's Connect
+## <div align="center">💡 MY APPROACH</div>
 
-**Looking for:**
-- 🎯 Remote SOC analyst internships
-- 🤝 Mentorship from security professionals
-- 💬 Feedback on my projects
-- 🔗 Collaboration opportunities
+> **"Proof Over Credentials"**
 
-**Feel free to reach out:**
-- 📧 Email: sujaul.islam.ahil@gmail.com
-- 💼 LinkedIn: [Connect with me](https://www.linkedin.com/in/sujaul-islam-)
-- 🐙 GitHub: [Follow my journey](https://github.com/Thepotatostealer-code)
+I have:
+- ✅ Real SIEM experience (Wazuh)
+- ✅ Actual threat investigations
+- ✅ Security hardening implementations
+- ✅ Public GitHub portfolio
+- ✅ Documented incident responses
+- ✅ Active learning on multiple platforms
 
----
+**Daily Commitment:**
+- 30 min: TryHackMe/CyberDefenders
+- 20 min: Home lab simulation & detection
+- 10 min: Security news & research
+- 10 min: LinkedIn engagement
+- 10 min: GitHub documentation
 
-## 📝 Latest Updates
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%">
 
-**June 2026:**
-- 🔄 Completing TryHackMe SOC Level 1 Path
-- 🔄 Setting up home lab environment
-- 🔄 Starting incident report documentation
-- 📋 Planning detection rules repository
+## <div align="center">🎯 LOOKING FOR</div>
 
+<div align="center">
 
-**Status:** 🔄 In Progress | **Goal:** Remote SOC L1 Internship | **Timeline:** 3-4 months
+### Remote SOC Analyst L1 Internships
 
----
+**Focusing on:**
+- Threat detection & analysis
+- Incident response
+- Alert triage & correlation
+- Security operations
+- Log analysis & forensics
 
-*Last Updated: June 2026*  
-*"Proof over credentials. Build in public. Stay consistent."*
+**Open to:** Paid or unpaid opportunities
+
+</div>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%">
+
+## <div align="center">📞 CONNECT</div>
+
+<div align="center">
+
+**Email:** sujaul.islam.ahil@gmail.com
+
+**Profiles:**
+- [GitHub](https://github.com/Thepotatostealer-code) | [LinkedIn](https://www.linkedin.com/in/sujaul-islam-ahil-b91b94344/) | [TryHackMe](https://tryhackme.com/p/sujaul.islam.ahil)
+
+**Available for:** Mentorship • Collaboration • Feedback • Opportunities
+
+</div>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%">
+
+<div align="center">
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=FF6B35&center=true&vCenter=true&width=800&lines=That+One+Day+We+Will+Look+Back;At+Where+We+Started+And+be+amazed+by+how+far+we+have+come;-Technoblade" alt="Animated Footer" />
+
+</div>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%">
+
+<div align="center">
+
+```
+╔═══════════════════════════════════════════════════════════════╗
+║                                                               ║
+║         Building SOC Skills • Documenting Everything          ║
+║              Ready to Contribute & Learn                      ║
+║                                                               ║
+║  "The best way to predict the future is to invent it"         ║
+║                                                               ║
+╚═══════════════════════════════════════════════════════════════╝
+```
+
+</div>
+
+<div align="center">
+
+**Last Updated:** June 2026
+
+</div>
