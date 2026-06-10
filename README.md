@@ -199,8 +199,8 @@ Repository: `ctf-writeups` (Coming Soon)
 ### SIEM & Monitoring
 - 🔄 Security Onion (in progress)
 - 🔄 Wazuh (in progress)
-- ⏳ Splunk (coming soon)
-- ⏳ Elastic Stack (coming soon)
+- ✅ Splunk
+- ✅ Elastic Stack 
 
 ### Network Security
 - 🔄 Wireshark (in progress)
@@ -224,8 +224,8 @@ Repository: `ctf-writeups` (Coming Soon)
 - ⏳ Bash scripting (coming soon)
 
 ### Threat Intelligence
-- ⏳ VirusTotal (coming soon)
-- ⏳ AbuseIPDB (coming soon)
+- ⏳ VirusTotal 
+- ⏳ AbuseIPDB 
 - ⏳ MISP (coming soon)
 - ⏳ AlienVault OTX (coming soon)
 
@@ -246,28 +246,28 @@ Repository: `ctf-writeups` (Coming Soon)
 
 ## 📈 Learning Milestones
 
-### Phase 1: Foundation (Weeks 1-4)
+### Foundation 
 - [ ] Complete TryHackMe SOC Level 1 Path
 - [ ] Complete 20+ Blue Team Labs challenges
 - [ ] Complete 15+ CyberDefenders challenges
 - [ ] Complete 10+ LetsDefend alerts
 - [ ] Build home lab foundation
 
-### Phase 2: Build (Weeks 5-8)
+### Build 
 - [ ] Complete home lab setup
 - [ ] Configure Suricata & Zeek
 - [ ] Deploy Wazuh agents
 - [ ] Write 5+ detection rules
 - [ ] Document 5+ incident reports
 
-### Phase 3: Expand (Weeks 9-12)
+### Expand 
 - [ ] Write 10+ incident reports
 - [ ] Create 3+ security scripts
 - [ ] Complete 30+ CTF challenges
 - [ ] Write 10+ CTF writeups
 - [ ] Optimize GitHub portfolio
 
-### Phase 4: Apply (Week 13+)
+### Apply
 - [ ] Optimize LinkedIn profile
 - [ ] Update resume with projects
 - [ ] Apply to SOC analyst internships
@@ -319,15 +319,6 @@ Repository: `ctf-writeups` (Coming Soon)
 - 10 min: Read security news (Bleeping Computer, SANS, Krebs)
 - 10 min: Post or engage on LinkedIn
 - 10 min: Update GitHub with progress
-
-**My Philosophy:**
-- Build in public
-- Document everything
-- Learn by doing
-- Share knowledge
-- Stay consistent
-
----
 
 ## 📚 Resources I'm Using
 
@@ -420,9 +411,6 @@ Repository: `ctf-writeups` (Coming Soon)
 - 🔄 Starting incident report documentation
 - 📋 Planning detection rules repository
 
----
-
-## 🚀 Building the SOC lab. Documenting everything. Ready to learn.
 
 **Status:** 🔄 In Progress | **Goal:** Remote SOC L1 Internship | **Timeline:** 3-4 months
 
