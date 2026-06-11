@@ -365,7 +365,7 @@ I have:
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=FF6B35&center=true&vCenter=true&width=800&lines=That+One+Day+We+Will+Look+Back;At+Where+We+Started+And+be+amazed+by+how+far+we+have+come;-Technoblade" alt="Animated Footer" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=FF6B35&center=true&vCenter=true&width=800&lines=That+One+Day+We+Will+Look+Back+At+Where+We+Started,;And+be+amazed+by+how+far+we+have+come.;-Technoblade" alt="Animated Footer" />
 
 </div>
 
