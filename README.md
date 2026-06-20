@@ -285,38 +285,6 @@ Skills Demonstrated
 SIEM Operations • EDR Deployment • Threat Detection • VQL Scripting • Linux Administration • Docker Security • Incident Response • Infrastructure Security
 
 
-## <div align="center">📊 LEARNING ROADMAP</div>
-
-```
-Phase 1: Foundation (Weeks 1-4)
-├── Complete TryHackMe SOC Level 1
-├── Blue Team Labs challenges
-├── CyberDefenders challenges
-├── LetsDefend alerts
-└── Home lab foundation
-
-Phase 2: Build (Weeks 5-8)
-├── Complete home lab setup
-├── Configure detection tools
-├── Deploy SIEM agents
-├── Write detection rules
-└── Document incidents
-
-Phase 3: Expand (Weeks 9-12)
-├── Advanced incident reports
-├── Security scripts
-├── CTF challenges
-├── Portfolio optimization
-└── Networking
-
-Phase 4: Apply (Week 13+)
-├── LinkedIn optimization
-├── Resume updates
-├── Job applications
-├── Interview prep
-└── Professional networking
-```
-
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%">
 
 ## <div align="center">💡 MY APPROACH</div>
