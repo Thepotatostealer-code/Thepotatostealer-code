@@ -49,7 +49,7 @@ I'm building hands-on expertise in **Security Operations, Threat Detection, and 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Thepotatostealer-code&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=7B2CBF&text_color=c9d1d9&icon_color=7B2CBF&cache_seconds=0 )
 
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Thepotatostealer-code&layout=compact&theme=dark )
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Thepotatostealer-code&layout=compact&theme=red )
 
 </div>
 
