@@ -200,80 +200,90 @@ I'm building hands-on expertise in **Security Operations, Threat Detection, and 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%">
 
 ## <div align="center">🏗️ FEATURED PROJECTS</div>
+🛡️ Featured Project: OriX Core SOC
 
-<table>
-<tr>
-<td width="50%">
+Self-Hosted Security Operations Center for Game Server Hosting Infrastructure
 
-### 🔧 home-lab-setup
-Full SOC environment with:
-- Security Onion
-- Wazuh SIEM
-- Suricata IDS/IPS
-- Zeek monitoring
-- Attack simulation
+A production-grade SIEM + EDR stack deployed and actively operating for OriX Core, a Bangladesh-based game server hosting provider. Built, deployed, and operationalized solo as the sole infrastructure security function.
 
-</td>
-<td width="50%">
+What's Built
 
-### 📋 incident-reports
-Professional documentation:
-- 10+ incident reports
-- MITRE ATT&CK mapping
-- Forensic analysis
-- Containment procedures
-- Lessons learned
+•
+✅ Wazuh SIEM — Centralized logging, alert generation, rule-based detection
 
-</td>
-</tr>
-<tr>
-<td width="50%">
+•
+✅ Velociraptor EDR — On-demand forensics, live hunts, custom VQL artifacts
 
-### 🔍 detection-rules
-Security detection:
-- Suricata rules
-- Sigma rules
-- Wazuh rules
-- Rule testing
-- Documentation
+•
+✅ Grafana Dashboards — Real-time SOC monitoring + custom Pterodactyl metrics
 
-</td>
-<td width="50%">
+•
+✅ File Integrity Monitoring — FIM + auditd/whodata for privilege escalation detection
 
-### 🐍 security-scripts
-Automation tools:
-- IOC checker (Python)
-- Log parser (Python)
-- Phishing analyzer
-- Alert triage helper
+•
+✅ Docker Monitoring — Container event tracking and security
 
-</td>
-</tr>
-<tr>
-<td width="50%">
+•
+🔄 Suricata IDS — Network-level threat detection (in progress)
 
-### 🧠 threat-intel-notes
-Threat analysis:
-- MITRE ATT&CK mappings
-- IOC collections
-- Threat profiles
-- Attack techniques
+Key Achievements
 
-</td>
-<td width="50%">
+•
+Deployed enterprise-grade SIEM/EDR on self-hosted budget (no licensing costs)
 
-### 🎓 ctf-writeups
-Challenge solutions:
-- TryHackMe rooms
-- CyberDefenders
-- Blue Team Labs
-- HackTheBox machines
+•
+Authored 5 custom VQL detection artifacts for game server threats
 
-</td>
-</tr>
-</table>
+•
+Debugged and documented 8 real production issues with root cause analysis
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%">
+•
+Implemented file integrity monitoring tuned for high-volume Docker workloads
+
+•
+Validated all controls on staging environment before production rollout
+
+Real-World Threat Detection
+
+Custom artifacts detect:
+
+•
+🔴 Cryptominers (xmrig, minerd, stratum patterns)
+
+•
+🔴 Backdoored game server plugins
+
+•
+🔴 Web shells and unauthorized uploads
+
+•
+🔴 Container escape attempts
+
+•
+🔴 Unauthorized server configuration changes
+
+Repository
+
+📦 [orix-core-soc](https://github.com/Thepotatostealer-code/orix-core-soc)
+
+900+ lines of documentation including:
+
+•
+Complete deployment guides
+
+•
+Real troubleshooting scenarios
+
+•
+Verification checklists
+
+•
+Custom threat detection logic
+
+Skills Demonstrated
+
+SIEM Operations • EDR Deployment • Threat Detection • VQL Scripting • Linux Administration • Docker Security • Incident Response • Infrastructure Security
+
 
 ## <div align="center">📊 LEARNING ROADMAP</div>
 
